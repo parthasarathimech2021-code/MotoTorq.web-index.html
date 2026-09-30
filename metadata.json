@@ -1,0 +1,6 @@
+{
+  "name": "MotoTorq - Precision Bike Spares & Dynamic Inventory",
+  "description": "High-performance motorcycle and bicycle spare parts catalogue with dynamic inventory tracking, OEM compatibility checker, and instant parts dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
